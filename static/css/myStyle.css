@@ -1,0 +1,26 @@
+p {
+	color:green;
+}
+
+#id1{
+	color:yellow;
+}
+
+p.cool{
+	color:purple;
+}
+
+.awesome{
+	color:gray;
+	font-size:200%;
+}
+
+.big{
+	font-size:200%;
+	color:blue;
+}
+
+#huge{
+	font-size:300%;
+	background:yellow;
+}
